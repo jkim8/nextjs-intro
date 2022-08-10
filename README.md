@@ -1,1 +1,1 @@
-# NextJS Inroduction
+# NextJS Introduction
